@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "connectionLimit": 5,
+        "host": "103.59.160.53",
+        "user": "u63_TiLzDWFZij",
+        "password": "IwdgRO04RaGADQu+CmZmu.g!",
+        "database": "s63_newdb"
+    }
+}
